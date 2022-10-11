@@ -4,7 +4,7 @@
 4
 Baris
 - Kolom 1
-- Kolom 2
+- Baris 2
 5
 Kolom 6
 7
