@@ -3,8 +3,8 @@
 3
 4
 Baris
-- Baris 1
+- Kolom 1
 - Baris 2
 5
-6
+Kolom 6
 7
